@@ -4,14 +4,14 @@ API web desenvolvida no ambiente de execução node.js, para uma aplicação de 
 
 ### OBJETIVOS
 
-Desenvolver uma API web com integração ao banco de dados com Node.js e outras tecnologias que muita utilizadas em conjunto.
+Desenvolver uma API web com integração ao banco de dados com Node.js e outras tecnologiase muita utilizadas em conjunto.
 
 ## DESENVOLVIMENTO
 
 - API desenvovlida com Node.js
 - Linguagem Javascript
 - Framework Express.js
-- Mecanismo de segurançã CORS para requisições
+- Mecanismo de segurança CORS para requisições
 - SQLite3 para o banco de dados
 - POSTMAN para testes de requisição
 - Boas práticas de organização, limpeza e reutilização
