@@ -16,6 +16,8 @@ Desenvolver uma API web com integração ao banco de dados com Node.js e outras 
 - POSTMAN para testes de requisição
 - Boas práticas de organização, limpeza e reutilização
 
+[![REPOSITÓRIO DO FRONT END DA APLICAÇÃO]](https://github.com/Feh-Lipe-Dev/app-todolist-react)
+
 ### TECNOLOGIAS USADAS
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
